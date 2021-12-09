@@ -19,5 +19,5 @@ In Day 2 of the Workshop, Srajan takes you through integrating Firebase with Rea
 7. You can build the app using ```npm run build``` and then use the Firebase CLI to deploy the app to Firebase.
 
 ## Contributors:
-Devdutta Khoche
+Devdutta Khoche <br/>
 Srajan Shetty
