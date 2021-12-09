@@ -20,5 +20,5 @@ Thank you!
 
 
 ## Contributors:
-Devdutta Khoche
+Devdutta Khoche <br/>
 Srajan Shetty
