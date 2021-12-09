@@ -3,7 +3,6 @@ In the first workshop conducted by Quest IT, Devdutta and Srajan take us through
 
 ## Day 2
 
-After Devdutta covered the different aspects of Firebase viz. viewing and making changes to a Cloud FireStore Database from a JavaScript Client.
 In Day 2 of the Workshop, Srajan takes you through integrating Firebase with React.js where he builds a simple To-Do List Application with Firebase Auth and also deploy the React Project with Firebase. 
 
 ### Prerequisites: Node.js
